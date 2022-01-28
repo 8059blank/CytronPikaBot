@@ -14,6 +14,8 @@ Download the ZIP file [here](https://github.com/dbsqwerty123/CytronPikaBot/archi
 
 You are ready to go!
 
+## Documentation
+
 ### Base 
 The PikaBot Base can be initialised by decalring a new instance of the Base Object.
 ```
