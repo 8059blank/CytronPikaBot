@@ -1,0 +1,25 @@
+#############################################
+# Syntax Coloring Map
+#############################################
+# Class
+#############################################
+Base	KEYWORD1
+Ultrasonic	KEYWORD1
+IRLine	KEYWORD1
+Button	KEYWORD1
+
+#############################################
+# Methods and Functions 
+#############################################
+powerBase	KEYWORD2
+moveForward	KEYWORD2
+moveBackward	KEYWORD2
+turnLeft	KEYWORD2
+turnRight	KEYWORD2
+getDistance	KEYWORD2
+onLine	KEYWORD2
+
+#############################################
+# Constants
+#############################################
+
