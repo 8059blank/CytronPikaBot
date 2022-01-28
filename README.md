@@ -2,6 +2,18 @@
 
 This library provides functions for Cytron Pika Bot.
 
+## Installation
+
+### Download from  Arduino Library Manager  (Recommended)
+
+In Arduino IDE, go to **Tools > Manage Libraries...** and search for "**Cytron_PikaBot**". Click "**Install**" and then "**Close**" after it is done.
+
+### Manual download
+
+Download the ZIP file [here](https://github.com/dbsqwerty123/CytronPikaBot/archive/refs/heads/master.zip). Unzip it and place it under **Documents\Arduino\libraries** (The folder should be named as "**CytronPikaBot**").
+
+You are ready to go!
+
 ### Base 
 The PikaBot Base can be initialised by decalring a new instance of the Base Object.
 ```
