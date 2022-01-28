@@ -1,5 +1,5 @@
-#ifndef CYTRON_PIKA_BOT_H
-#define CYTRON_PIKA_BOT_H
+#ifndef CYTRON_PIKABOT_H
+#define CYTRON_PIKABOT_H
 
 #include <Arduino.h>
 #include <stdint.h>
