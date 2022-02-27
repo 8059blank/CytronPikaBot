@@ -10,7 +10,7 @@ In Arduino IDE, go to **Tools > Manage Libraries...** and search for "**Cytron_P
 
 ### Manual download
 
-Download the ZIP file [here](https://github.com/dbsqwerty123/CytronPikaBot/archive/refs/heads/master.zip). Unzip it and place it under **Documents\Arduino\libraries** (The folder should be named as "**CytronPikaBot**").
+Download the ZIP file [here](https://github.com/beanbeah/CytronPikaBot/archive/refs/heads/master.zip). Unzip it and place it under **Documents\Arduino\libraries** (The folder should be named as "**CytronPikaBot**").
 
 You are ready to go!
 
